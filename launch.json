@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Hospital",
+            "request": "launch",
+            "mainClass": "Hospital",
+            "classpath": [
+                "${workspaceFolder}/sqlite-jdbc-3.50.3.0.jar",
+                "${workspaceFolder}/bin"
+            ]
+        }
+    ]
+}
